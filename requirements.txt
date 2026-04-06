@@ -1,0 +1,1 @@
+"numpy\npandas\nscikit-learn\nscikit-image\nmahotas\nmatplotlib\nseaborn\nstreamlit\nstreamlit-drawble-canvas" 
