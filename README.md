@@ -10,7 +10,7 @@ Role: Data Engineer
 
 Primary Responsibilities: EDA, HOG Feature Extraction, Visualization
 
-Member B: Pavithra
+Member B: Pavithra K M
 
 Role: ML Scientist
 
